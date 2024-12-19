@@ -1,0 +1,23 @@
+{
+  "META": {
+    "repoName": "nekit",
+    "repoIcon": "https://usescarlet.com/favicon.png"
+  },
+  "Games": [
+    {
+      "name": "Papers, Please",
+      "version": "1.4.12",
+      "down": "https://github.com/AfonasGa/nekitRepo/raw/refs/heads/main/ipa/Papers-Please-v1-4-12.ipa",
+      "category": "Hacked Games",
+      "description": "nekitRepo"
+    },
+    {
+      "name": "Smash Hit+",
+      "version": "1.0.3",
+      "down": "https://github.com/AfonasGa/nekitRepo/raw/refs/heads/main/ipa/Smash-Hit-plus-v1-0-3.ipa",
+      "category": "Hacked Games",
+      "changelog": "Apple Arcade Version",
+      "description": "nekitRepo"
+    }
+  ]
+}
