@@ -18,7 +18,7 @@ repo for scarlet
 ### Installation
 
 1. Open scarlet
-<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="nekitRepo/4" data-width="100%"></script>
+2. t.me/nekitRepo/4
 3. Paste this
    ```sh
    https://afonasga.github.io/nekitRepo/repo.json
