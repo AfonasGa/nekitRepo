@@ -1,7 +1,7 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="https://github.com/AfonasGa/nekitRepo/blob/main/nekitrepoimage.png?raw=true">
 <img src="https://github.com/AfonasGa/nekitRepo/blob/main/nekitrepoimage.png?raw=true" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">nekitRepo</h3>
