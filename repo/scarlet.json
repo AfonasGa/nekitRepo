@@ -1,0 +1,33 @@
+{
+  "META": {
+    "repoName": "nekit",
+    "repoIcon": "https://afonasga.github.io/nekitRepo/pack.png"
+  },
+  "Apps": [
+    {
+      "name": "Papers, Please",
+      "version": "1.4.12",
+      "icon": "https://afonasga.github.io/nekitRepo/icon/papersplease.png",
+      "down": "https://afonasga.github.io/nekitRepo/ipa/Papers-Please-v1-4-12.ipa",
+      "category": "Games",
+      "description": "nekitRepo"
+    },
+    {
+      "name": "Terraria",
+      "version": "1.4.4.14",
+      "icon": "https://afonasga.github.io/nekitRepo/icon/terraria.png",
+      "down": "https://mobdisc.com/fdl/568436b7-44c8-4a4c-9c5a-4adbaf405674/Terraria-v4-4-14.ipa",
+      "category": "Games",
+      "description": "nekitRepo"
+    },
+    {
+      "name": "Smash Hit+",
+      "version": "1.0.3",
+      "icon": "https://afonasga.github.io/nekitRepo/icon/smashhitt.png",
+      "down": "https://afonasga.github.io/nekitRepo/ipa/Smash-Hit-plus-v1-0-3.ipa",
+      "category": "Games",
+      "changelog": "Apple Arcade Version",
+      "description": "nekitRepo"
+    }
+  ]
+}
