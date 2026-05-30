@@ -1,4 +1,4 @@
-
+# deprecated
 <br/>
 <div align="center">
 <a href="https://github.com/AfonasGa/nekitRepo/blob/main/nekitrepoimage.png?raw=true">
@@ -18,7 +18,7 @@ repo for scarlet
 ### Installation
 
 1. Open scarlet
-2. t.me/nekitRepo/4
+2. 2. -
 3. Paste this
    ```sh
    https://afonasga.github.io/nekitRepo/repo.json
